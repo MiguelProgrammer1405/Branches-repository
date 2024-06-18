@@ -1,0 +1,7 @@
+.btn {
+  background: red;
+  border: none;
+  padding: 0.5rem 0.5rem;
+  border-radius: 5%;
+  font-size: 1rem;
+}
